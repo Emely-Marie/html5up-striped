@@ -1,0 +1,15 @@
+body {
+    background-color: aliceblue;
+}
+
+.mindfulness {
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    border: 10px solid blue;
+}
+
+.intro {
+    text-align: center;
+}
+
