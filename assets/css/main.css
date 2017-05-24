@@ -1963,6 +1963,10 @@
 		}
 
 /* Pagination */
+    .centerYourself{
+        text-align: center;
+    }
+
 
 	.pagination .pages {
 		display: inline-block;
